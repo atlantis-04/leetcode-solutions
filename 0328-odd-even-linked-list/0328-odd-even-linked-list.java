@@ -13,20 +13,50 @@ class Solution {
         if (head == null || head.next == null)
             return head;
 
-        ListNode odd = head;
-        ListNode even = head.next;
-        ListNode evenHead = even;
+        ListNode evenHead = null, evenTail = null;
+        ListNode oddHead = null, oddTail = null;
 
-        while (even != null && even.next != null) {
-            odd.next = even.next;
-            odd = odd.next;
+        ListNode current = head;
+        int index = 1;
 
-            even.next = odd.next;
-            even = even.next;
+        while (current != null) {
+
+            ListNode next = current.next; // Save next node
+
+            if (index % 2 == 0) {
+
+                if (evenHead == null) {
+                    evenHead = current;
+                    evenTail = current;
+                } else {
+                    evenTail.next = current;
+                    evenTail = current;
+                }
+
+            } else {
+
+                if (oddHead == null) {
+                    oddHead = current;
+                    oddTail = current;
+                } else {
+                    oddTail.next = current;
+                    oddTail = current;
+                }
+            }
+
+            current = next;
+            index++;
         }
 
-        odd.next = evenHead;
+        if (evenHead == null)
+            return oddHead;
 
-        return head;
+        if (oddHead == null)
+            return evenHead;
+
+        oddTail.next = evenHead;
+        evenTail.next = null;
+
+        return oddHead;
     }
 }
