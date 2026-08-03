@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/atlantis-04/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/atlantis-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/atlantis-04/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/atlantis-04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/atlantis-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/atlantis-04/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/atlantis-04/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/atlantis-04/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -78,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/atlantis-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/atlantis-04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/atlantis-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/atlantis-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/atlantis-04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
