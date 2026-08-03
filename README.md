@@ -99,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/atlantis-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/atlantis-04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
