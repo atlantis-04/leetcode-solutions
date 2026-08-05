@@ -1,27 +1,29 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] freq = new int[3];
+
+        // Left pointer for the sliding window
         int left = 0;
-        int count = 0;
 
+        // Result variable to store count of valid substrings
+        int res = 0;
+
+        // Traverse the string with right pointer
         for (int right = 0; right < s.length(); right++) {
-            char ch = s.charAt(right);
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+            // Increment frequency of current character
+            freq[s.charAt(right) - 'a']++;
 
-            while (map.size() == 3) {
-                count += s.length() - right;
+            // Shrink the window from the left while all characters are present
+            while (freq[0] > 0 && freq[1] > 0 && freq[2] > 0) {
+                // Count substrings from current right to end
+                res += (s.length() - right);
 
-                char leftChar = s.charAt(left);
-                map.put(leftChar, map.get(leftChar) - 1);
-
-                if (map.get(leftChar) == 0) {
-                    map.remove(leftChar);
-                }
-
+                // Move left pointer and update frequency
+                freq[s.charAt(left) - 'a']--;
                 left++;
             }
         }
 
-        return count;
+        return res;
     }
 }
