@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/atlantis-04/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/atlantis-04/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/atlantis-04/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/atlantis-04/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/atlantis-04/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/atlantis-04/leetcode-solutions/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/atlantis-04/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/atlantis-04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/atlantis-04/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/atlantis-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/atlantis-04/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/atlantis-04/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Game Theory
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/atlantis-04/leetcode-solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/atlantis-04/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/atlantis-04/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/atlantis-04/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Heap (Priority Queue)
 |  |
