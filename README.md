@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/atlantis-04/leetcode-solutions/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/atlantis-04/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/atlantis-04/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/atlantis-04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/atlantis-04/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/atlantis-04/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/atlantis-04/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/atlantis-04/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
