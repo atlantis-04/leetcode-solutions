@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/atlantis-04/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3731-find-missing-elements](https://github.com/atlantis-04/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/atlantis-04/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/atlantis-04/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/atlantis-04/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [3945-digit-frequency-score](https://github.com/atlantis-04/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Design
 |  |
 | ------- |
