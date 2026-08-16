@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/atlantis-04/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/atlantis-04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/atlantis-04/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/atlantis-04/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/atlantis-04/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/atlantis-04/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/atlantis-04/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3783-mirror-distance-of-an-integer](https://github.com/atlantis-04/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/atlantis-04/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Design
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/atlantis-04/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/atlantis-04/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
