@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/atlantis-04/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/atlantis-04/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/atlantis-04/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/atlantis-04/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1248-count-number-of-nice-subarrays](https://github.com/atlantis-04/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/atlantis-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/atlantis-04/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/atlantis-04/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/atlantis-04/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/atlantis-04/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/atlantis-04/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
