@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/atlantis-04/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/atlantis-04/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Game Theory
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/atlantis-04/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/atlantis-04/leetcode-solutions/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/atlantis-04/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [1143-longest-common-subsequence](https://github.com/atlantis-04/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/atlantis-04/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/atlantis-04/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/atlantis-04/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/atlantis-04/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
