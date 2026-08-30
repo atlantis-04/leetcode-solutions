@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/atlantis-04/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/atlantis-04/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3731-find-missing-elements](https://github.com/atlantis-04/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/atlantis-04/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-n-th-tribonacci-number](https://github.com/atlantis-04/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/atlantis-04/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/atlantis-04/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/atlantis-04/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3783-mirror-distance-of-an-integer](https://github.com/atlantis-04/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/atlantis-04/leetcode-solutions/tree/master/3945-digit-frequency-score) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/atlantis-04/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/atlantis-04/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/atlantis-04/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2104-sum-of-subarray-ranges](https://github.com/atlantis-04/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atlantis-04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/atlantis-04/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/atlantis-04/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/atlantis-04/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/atlantis-04/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/atlantis-04/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
