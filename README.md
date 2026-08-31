@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0260-single-number-iii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/atlantis-04/leetcode-solutions/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/atlantis-04/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/atlantis-04/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/atlantis-04/leetcode-solutions/tree/master/0078-subsets) |
+| [0260-single-number-iii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0260-single-number-iii) |
 ## Counting
 |  |
 | ------- |
