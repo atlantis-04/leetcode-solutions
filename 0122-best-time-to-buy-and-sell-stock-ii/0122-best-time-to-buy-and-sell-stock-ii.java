@@ -1,31 +1,4 @@
 class Solution {
-    private int getAns(int[] arr, int ind, int buy, int n, int[][] dp) {
-        if (ind == n) {
-            return 0;
-        }
-
-        if (dp[ind][buy] != -1) {
-            return dp[ind][buy];
-        }
-
-        int profit;
-
-        if (buy == 0) {
-            profit = Math.max(
-                getAns(arr, ind + 1, 0, n, dp),
-                -arr[ind] + getAns(arr, ind + 1, 1, n, dp)
-            );
-        } else {
-            profit = Math.max(
-                getAns(arr, ind + 1, 1, n, dp),
-                arr[ind] + getAns(arr, ind + 1, 0, n, dp)
-            );
-        }
-
-        dp[ind][buy] = profit;
-        return profit;
-    }
-
     public int maxProfit(int[] arr) {
         int n = arr.length;
 
@@ -33,12 +6,27 @@ class Solution {
             return 0;
         }
 
-        int[][] dp = new int[n][2];
+        int[][] dp = new int[n + 1][2];
 
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
+        // Base case:
+        // dp[n][0] = 0
+        // dp[n][1] = 0
+
+        for (int ind = n - 1; ind >= 0; ind--) {
+
+            // We are allowed to buy
+            dp[ind][0] = Math.max(
+                dp[ind + 1][0],
+                -arr[ind] + dp[ind + 1][1]
+            );
+
+            // We are allowed to sell
+            dp[ind][1] = Math.max(
+                dp[ind + 1][1],
+                arr[ind] + dp[ind + 1][0]
+            );
         }
 
-        return getAns(arr, 0, 0, n, dp);
+        return dp[0][0];
     }
 }
