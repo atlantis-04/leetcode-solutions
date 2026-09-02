@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/atlantis-04/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/atlantis-04/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3783-mirror-distance-of-an-integer](https://github.com/atlantis-04/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/atlantis-04/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/atlantis-04/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Design
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/atlantis-04/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3731-find-missing-elements](https://github.com/atlantis-04/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/atlantis-04/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/atlantis-04/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
