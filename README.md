@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/atlantis-04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/atlantis-04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/atlantis-04/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/atlantis-04/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atlantis-04/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/atlantis-04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/atlantis-04/leetcode-solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/atlantis-04/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/atlantis-04/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -523,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/atlantis-04/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/atlantis-04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
