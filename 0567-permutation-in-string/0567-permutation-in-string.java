@@ -5,28 +5,36 @@ class Solution {
         int n = s1.length();
         int m = s2.length();
 
-        // If s1 is longer than s2, impossible
         if (n > m) return false;
 
-        // Sort s1
-        char[] s1Arr = s1.toCharArray();
-        Arrays.sort(s1Arr);
-        String sortedS1 = new String(s1Arr);
+        int[] s1Freq = new int[26];
+        int[] s2Freq = new int[26];
 
-        // Check every substring of s2 having length n
-        for (int i = 0; i <= m - n; i++) {
+        // Frequency of s1
+        for (int k = 0; k < n; k++) {
+            s1Freq[s1.charAt(k) - 'a']++;
+        }
 
-            String temp = s2.substring(i, i + n);
+        int i = 0;
+        int j = 0;
 
-            // Sort substring
-            char[] tempArr = temp.toCharArray();
-            Arrays.sort(tempArr);
-            temp = new String(tempArr);
+        while (j < m) {
 
-            // Compare strings
-            if (temp.equals(sortedS1)) {
+            // Add right character
+            s2Freq[s2.charAt(j) - 'a']++;
+
+            // If window becomes larger than s1
+            if (j - i + 1 > n) {
+                s2Freq[s2.charAt(i) - 'a']--;
+                i++;
+            }
+
+            // Compare frequency arrays
+            if (Arrays.equals(s1Freq, s2Freq)) {
                 return true;
             }
+
+            j++;
         }
 
         return false;
