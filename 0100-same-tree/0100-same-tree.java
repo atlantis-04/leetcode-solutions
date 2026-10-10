@@ -28,11 +28,3 @@ class Solution {
 
     }
 }
-
-//  if(p== null && q == null){
-//             return true;
-//         }
-//         if(p.left != q.left && p.right != q.right) return false;
-//         // if(p.right != q.right) return false;   
-
-//         return true;  
