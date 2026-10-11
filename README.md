@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/atlantis-04/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atlantis-04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/2295-replace-elements-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/atlantis-04/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/atlantis-04/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3483-unique-3-digit-even-numbers](https://github.com/atlantis-04/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atlantis-04/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/atlantis-04/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/atlantis-04/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
