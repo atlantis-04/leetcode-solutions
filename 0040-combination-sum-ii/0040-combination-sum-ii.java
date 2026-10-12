@@ -1,28 +1,44 @@
-import java.util.*;
-
 class Solution {
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        List<List<Integer>> result = new ArrayList<>();
-        Arrays.sort(candidates); // sort to handle duplicates
-        backtrack(result, new ArrayList<>(), candidates, target, 0);
-        return result;
-    }
+    List<List<Integer>> result = new ArrayList<>();
 
-    private void backtrack(List<List<Integer>> result, List<Integer> tempList, int[] candidates, int remain, int start) {
-        if (remain < 0) return; // overshoot
-        if (remain == 0) {
-            result.add(new ArrayList<>(tempList)); // found valid combo
+    public void backtrack(int index, int n, int[] nums,
+                          int target, List<Integer> list) {
+
+        if (target == 0) {
+            result.add(new ArrayList<>(list));
             return;
         }
 
-        for (int i = start; i < candidates.length; i++) {
-            // skip duplicates
-            if (i > start && candidates[i] == candidates[i - 1]) continue;
-
-            tempList.add(candidates[i]);
-            backtrack(result, tempList, candidates, remain - candidates[i], i + 1); 
-            // use i+1 because each element can be used only once
-            tempList.remove(tempList.size() - 1);
+        if (index >= n || target < 0) {
+            return;
         }
+
+        // TAKE current element
+        list.add(nums[index]);
+        backtrack(index + 1, n, nums, target - nums[index], list);
+
+        // BACKTRACK
+        list.remove(list.size() - 1);
+
+        // SKIP all consecutive duplicates
+        int idx = index + 1;
+
+        while (idx < n && nums[idx] == nums[index]) {
+            idx++;
+        }
+
+        // SKIP branch
+        backtrack(idx, n, nums, target, list);
+    }
+
+    public List<List<Integer>> combinationSum2(int[] nums, int target) {
+        Arrays.sort(nums);
+
+        int n = nums.length;
+        List<Integer> list = new ArrayList<>();
+
+        backtrack(0, n, nums, target, list);
+
+        return result;
     }
 }
