@@ -1,25 +1,21 @@
 class Solution {
-    // 1. Use the interface type 'List' for the declaration
-    List<List<Integer>> list = new ArrayList<>();
-
-    public void solve(int[] nums, int index, List<Integer> sublist) {
-        if (index >= nums.length) {
-            // Add a copy of the current sublist to the result
-            list.add(new ArrayList<>(sublist));
+    List<List<Integer>> result = new ArrayList<>();
+    // since we have to try all possible outcomes we use recursion, and backtracking 
+    public void backtrack(int index, List<Integer> list, int n,int[] nums){
+        if(index == n){
+            result.add(new ArrayList<>(list));
             return;
         }
-        
-        // Pick the number
-        sublist.add(nums[index]);
-        solve(nums, index + 1, sublist);
-        
-        // Skip the number (backtrack)
-        sublist.remove(sublist.size() - 1);
-        solve(nums, index + 1, sublist);
+        list.add(nums[index]);
+        backtrack(index+1, list, n, nums);
+        list.remove(list.size()-1);
+        backtrack(index+1,list,n,nums);
     }
 
     public List<List<Integer>> subsets(int[] nums) {
-        solve(nums, 0, new ArrayList<>());
-        return list;
+        int n = nums.length;
+        List<Integer> list = new ArrayList<>();
+        backtrack(0, list, n, nums);
+        return result;
     }
-}   
+}
