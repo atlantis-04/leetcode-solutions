@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/atlantis-04/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/atlantis-04/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/atlantis-04/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/atlantis-04/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/atlantis-04/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3483-unique-3-digit-even-numbers](https://github.com/atlantis-04/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atlantis-04/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/atlantis-04/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/atlantis-04/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/atlantis-04/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/atlantis-04/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/atlantis-04/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/atlantis-04/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
