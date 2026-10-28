@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/atlantis-04/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/atlantis-04/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1631-path-with-minimum-effort](https://github.com/atlantis-04/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/atlantis-04/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/atlantis-04/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/atlantis-04/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/atlantis-04/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/atlantis-04/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/atlantis-04/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/atlantis-04/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/atlantis-04/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/atlantis-04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/atlantis-04/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/atlantis-04/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/atlantis-04/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atlantis-04/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/atlantis-04/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/atlantis-04/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/atlantis-04/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/atlantis-04/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/atlantis-04/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
@@ -578,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/atlantis-04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/atlantis-04/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/atlantis-04/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/atlantis-04/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atlantis-04/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/atlantis-04/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## DP on Trees
@@ -710,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/atlantis-04/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/atlantis-04/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/atlantis-04/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -735,4 +742,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/atlantis-04/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/atlantis-04/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
