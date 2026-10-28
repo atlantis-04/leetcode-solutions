@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/atlantis-04/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/atlantis-04/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/atlantis-04/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/atlantis-04/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/atlantis-04/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/atlantis-04/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/atlantis-04/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/atlantis-04/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/atlantis-04/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/atlantis-04/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atlantis-04/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/atlantis-04/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/atlantis-04/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/atlantis-04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/atlantis-04/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atlantis-04/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/atlantis-04/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## DP on Trees
 |  |
 | ------- |
