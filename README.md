@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/atlantis-04/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/atlantis-04/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/atlantis-04/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/atlantis-04/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/atlantis-04/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/atlantis-04/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/atlantis-04/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/atlantis-04/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/atlantis-04/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/atlantis-04/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/atlantis-04/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/atlantis-04/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/atlantis-04/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/atlantis-04/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/atlantis-04/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/atlantis-04/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/atlantis-04/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/atlantis-04/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/atlantis-04/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/atlantis-04/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/atlantis-04/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/atlantis-04/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/atlantis-04/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/atlantis-04/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -731,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/atlantis-04/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/atlantis-04/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/atlantis-04/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/atlantis-04/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -758,4 +763,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/atlantis-04/leetcode-solutions/tree/master/0127-word-ladder) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/atlantis-04/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
