@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/atlantis-04/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1631-path-with-minimum-effort](https://github.com/atlantis-04/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/atlantis-04/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/atlantis-04/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/atlantis-04/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/atlantis-04/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/atlantis-04/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/atlantis-04/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 ## Quickselect
 |  |
 | ------- |
