@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/atlantis-04/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/atlantis-04/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/atlantis-04/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/atlantis-04/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/atlantis-04/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/atlantis-04/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/atlantis-04/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/atlantis-04/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/atlantis-04/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/atlantis-04/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/atlantis-04/leetcode-solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/atlantis-04/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
