@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/atlantis-04/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/atlantis-04/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/atlantis-04/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/atlantis-04/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/atlantis-04/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/atlantis-04/leetcode-solutions/tree/master/0763-partition-labels) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atlantis-04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/atlantis-04/leetcode-solutions/tree/master/0458-poor-pigs) |
 | [0516-longest-palindromic-subsequence](https://github.com/atlantis-04/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0647-palindromic-substrings](https://github.com/atlantis-04/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/atlantis-04/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/atlantis-04/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/atlantis-04/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/atlantis-04/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/atlantis-04/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/atlantis-04/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/atlantis-04/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/atlantis-04/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/atlantis-04/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/atlantis-04/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
