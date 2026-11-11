@@ -1,37 +1,48 @@
 
+import java.util.Arrays;
+
 class Solution {
-    int count = 0;
+    int[][] t;
+
+    public boolean check(String s, int i, int j) {
+
+        if (i >= j) {
+            return true;
+        }
+
+        if (t[i][j] != -1) {
+            return t[i][j] == 1;
+        }
+
+        if (s.charAt(i) == s.charAt(j)) {
+            return (t[i][j] = check(s, i + 1, j - 1) ? 1 : 0) == 1;
+        }
+
+        t[i][j] = 0;
+        return false;
+    }
 
     public int countSubstrings(String s) {
-        generate(s, 0, 0);
-        return count;
-    }
 
-    public void generate(String s, int start, int end) {
-        if (start == s.length()) {
-            return;
+        int n = s.length();
+
+        t = new int[n][n];
+
+        for (int[] row : t) {
+            Arrays.fill(row, -1);
         }
 
-        if (end == s.length()) {
-            generate(s, start + 1, start + 1);
-            return;
-        }
+        int count = 0;
 
-        if (isPalindrome(s, start, end)) {
-            count++;
-        }
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
 
-        generate(s, start, end + 1);
-    }
-
-    public boolean isPalindrome(String s, int i, int j) {
-        while (i < j) {
-            if (s.charAt(i) != s.charAt(j)) {
-                return false;
+                if (check(s, i, j)) {
+                    count++;
+                }
             }
-            i++;
-            j--;
         }
-        return true;
+
+        return count;
     }
 }
