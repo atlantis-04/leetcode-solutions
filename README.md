@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/atlantis-04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/atlantis-04/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/atlantis-04/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/atlantis-04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/atlantis-04/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/atlantis-04/leetcode-solutions/tree/master/0343-integer-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atlantis-04/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/atlantis-04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/atlantis-04/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/atlantis-04/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atlantis-04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/atlantis-04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atlantis-04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/atlantis-04/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/atlantis-04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/atlantis-04/leetcode-solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/atlantis-04/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/atlantis-04/leetcode-solutions/tree/master/0127-word-ladder) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/atlantis-04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/atlantis-04/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/atlantis-04/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
