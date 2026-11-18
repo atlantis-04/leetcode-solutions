@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/atlantis-04/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/atlantis-04/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atlantis-04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/atlantis-04/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Stack
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/atlantis-04/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/atlantis-04/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atlantis-04/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/atlantis-04/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/atlantis-04/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/atlantis-04/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/atlantis-04/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/atlantis-04/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/atlantis-04/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/atlantis-04/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/atlantis-04/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/atlantis-04/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
