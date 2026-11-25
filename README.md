@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atlantis-04/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/atlantis-04/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/atlantis-04/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3934-smallest-unique-subarray](https://github.com/atlantis-04/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/atlantis-04/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/atlantis-04/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/atlantis-04/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/atlantis-04/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3934-smallest-unique-subarray](https://github.com/atlantis-04/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/atlantis-04/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/atlantis-04/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/atlantis-04/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/atlantis-04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3934-smallest-unique-subarray](https://github.com/atlantis-04/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/atlantis-04/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/atlantis-04/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## K-D Tree
 |  |
 | ------- |
@@ -886,4 +890,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atlantis-04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/atlantis-04/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/atlantis-04/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
